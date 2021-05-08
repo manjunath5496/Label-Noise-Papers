@@ -94,7 +94,7 @@ exploring techniques and remedies in medical image analysis</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Label-Noise-Papers/blob/master/n(47).pdf" style="text-decoration:none;">Image Classication with Deep Learning in the Presence of Noisy Labels: A Survey</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Label-Noise-Papers/blob/master/n(48).pdf" style="text-decoration:none;">Confidence Scores Make Instance-dependent Label-noise Learning Possible</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Label-Noise-Papers/blob/master/n(49).pdf" style="text-decoration:none;">Multi-Class Classication from
+<li><a target="_blank" href="https://github.com/manjunath5496/Label-Noise-Papers/blob/master/n(49).pdf" style="text-decoration:none;">Multi-Class Classification from
 Noisy-Similarity-Labeled Data</a></li>
                               
 <li><a target="_blank" href="https://github.com/manjunath5496/Label-Noise-Papers/blob/master/n(50).pdf" style="text-decoration:none;">DivideMix: Learning with Noisy Labels as Semi-supervised Learning</a></li>
